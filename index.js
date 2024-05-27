@@ -1,6 +1,6 @@
 const btn = document.getElementById('btn');
 const liffId = 'https://liff.line.me/2005429724-YDvWGPdv';
-let userId = '';
+let userId = 'U639765ef45ab34b564f6a95e9683d0be';
 
 function main(){
     // 1.liff init
